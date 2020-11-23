@@ -7,9 +7,14 @@ cell polarity and shape quantification services to students, scientists and othe
 professional establishments around the world.
 
 The source code is currently under reviewed and will be released publicly soon.
-[Releases for Windows and macOS](https://github.com/QuantifyPolarity/QuantifyPolarity/releases) are now available (installation procedures and user tutorials can be found in the .zip file).
+[Releases for Windows and macOS](https://github.com/QuantifyPolarity/QuantifyPolarity/releases) are now available (Installation procedure and User manual can be found in the .zip file).
 
-## Tutorial Videos
+Links to online video tutorials are listed as following:
+1) Single Image Cell Polarity and Shape Analysis
+https://youtu.be/SBmG2YnCpcI
+2) Batch Image Cell Polarity and Shape Analysis
+https://youtu.be/lkov84Cks-M
+
 
 ## Cite & Acknowledge
 If you find QuantifyPolarity helpful and use it in the scientific environment, please cite this paper:
