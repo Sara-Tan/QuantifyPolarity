@@ -15,6 +15,7 @@ https://youtu.be/SBmG2YnCpcI
 2) Batch Image Cell Polarity and Shape Analysis:
 https://youtu.be/lkov84Cks-M
 
+Link to a series of simulation images for QuantifyPolarity are available [here](https://drive.google.com/drive/folders/1bBv6Dxf5jOm-VVpk6fNRFIoXGaxmufS4?usp=sharing).
 
 ## Cite & Acknowledge
 If you find QuantifyPolarity helpful and use it in the scientific environment, please cite this paper:
