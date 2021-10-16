@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use QuantifyPolarity in your research, please cite it as below."
+authors:
+- family-names: "TAN"
+  given-names: "SU EE"
+  orcid: "https://orcid.org/0000-0001-7026-9900"
+- family-names: "TAN"
+  given-names: "WEIJIE"
+  orcid: "https://orcid.org/0000-0003-2154-4763"
+- family-names: "FISHER"
+  given-names: "KATHERINE H."
+  orcid: "https://orcid.org/0000-0002-2751-156X"
+- family-names: "STRUTT"
+  given-names: "DAVID"
+title: "QuantifyPolarity, a new tool-kit for measuring planar polarized protein distributions and cell properties in developing tissues"
+version: 1.0.0
+doi: 10.1242/dev.198952
+date-released: 2021-09-07
