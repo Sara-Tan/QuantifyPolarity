@@ -19,4 +19,6 @@ Link to a series of simulation images for QuantifyPolarity are available [here](
 
 ## Cite & Acknowledge
 If you find QuantifyPolarity helpful and use it in the scientific environment, please cite this paper:
-  
+
+Tan, S.E, Tan, W., Fisher, K.H. and Strutt, D., 2021. QuantifyPolarity, a new tool-kit for measuring planar polarized protein distributions and cell properties in developing tissues. Development, 148(18), p.dev198952.
+
