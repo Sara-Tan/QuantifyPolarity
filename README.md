@@ -44,4 +44,4 @@ If you find QuantifyPolarity useful in your scientific research, please consider
 Tan, S.E, Tan, W., Fisher, K.H. and Strutt, D., 2021. QuantifyPolarity, a new tool-kit for measuring planar polarized protein distributions and cell properties in developing tissues. _Development_, 148(18), p.dev198952.
 
 ---
-This software is maintained by [S.E Tan](https://github.com/Sara-Tan) and [W. Tan](https://github.com/wwtan).
+This software is developed and maintained by [S.E Tan](https://github.com/Sara-Tan) and [W. Tan](https://github.com/wwtan).
